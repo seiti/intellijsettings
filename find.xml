@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xls*" />
     <recentFileMasks>
-      <mask>*.vm</mask>
-      <mask>*.vm</mask>
-      <mask>*.va</mask>
-      <mask>*.v</mask>
-      <mask>*DA.java</mask>
-      <mask>*DAO.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -28,12 +20,21 @@
       <mask>pomml</mask>
       <mask>pom.ml</mask>
       <mask>pom.xml</mask>
-      <mask>*x</mask>
-      <mask>*</mask>
       <mask>*.o</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*S.java</mask>
+      <mask>*Ser.java</mask>
+      <mask>*Servi.java</mask>
+      <mask>*Service.java</mask>
+      <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*x</mask>
+      <mask>*xl</mask>
+      <mask>*xls</mask>
+      <mask>*xls*</mask>
+      <mask>*.xls*</mask>
     </recentFileMasks>
   </component>
 </application>
