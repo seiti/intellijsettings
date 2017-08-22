@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.xlsx</mask>
-      <mask>*.xls</mask>
-      <mask>*.xl</mask>
       <mask>*.vm</mask>
       <mask>*.vm</mask>
       <mask>*.va</mask>
@@ -19,13 +17,10 @@
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.ml</mask>
       <mask>*ml</mask>
       <mask>ml</mask>
@@ -34,6 +29,12 @@
       <mask>pomml</mask>
       <mask>pom.ml</mask>
       <mask>pom.xml</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
