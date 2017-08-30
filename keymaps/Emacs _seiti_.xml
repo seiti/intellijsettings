@@ -71,6 +71,9 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f1" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl d" />
   </action>
