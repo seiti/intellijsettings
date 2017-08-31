@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.bsh" />
     <recentFileMasks>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xm</mask>
-      <mask>*.ml</mask>
       <mask>*ml</mask>
       <mask>ml</mask>
       <mask>pml</mask>
@@ -16,7 +13,6 @@
       <mask>pom.ml</mask>
       <mask>pom.xml</mask>
       <mask>*.o</mask>
-      <mask>*</mask>
       <mask>*x</mask>
       <mask>*xl</mask>
       <mask>*xls</mask>
@@ -30,10 +26,15 @@
       <mask>*Service.java.java</mask>
       <mask>*Service.java</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.bs</mask>
+      <mask>*.bsh</mask>
     </recentFileMasks>
   </component>
 </application>
