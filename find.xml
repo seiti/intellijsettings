@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.bsh" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>ml</mask>
       <mask>pml</mask>
@@ -26,17 +26,17 @@
       <mask>*Servi.java</mask>
       <mask>*Service.java.java</mask>
       <mask>*Service.java</mask>
-      <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bs</mask>
       <mask>*.bsh</mask>
+      <mask>*.bs</mask>
+      <mask>*.b</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
