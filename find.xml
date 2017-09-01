@@ -5,14 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>ml</mask>
-      <mask>pml</mask>
-      <mask>poml</mask>
-      <mask>pomml</mask>
-      <mask>pom.ml</mask>
-      <mask>pom.xml</mask>
       <mask>*.o</mask>
       <mask>*x</mask>
       <mask>*xl</mask>
@@ -37,6 +30,12 @@
       <mask>*.b</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
