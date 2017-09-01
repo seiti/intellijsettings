@@ -5,12 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.o</mask>
-      <mask>*x</mask>
-      <mask>*xl</mask>
-      <mask>*xls</mask>
-      <mask>*xls*</mask>
       <mask>*.xls*</mask>
       <mask>*.xls</mask>
       <mask>*.xl</mask>
@@ -36,6 +32,11 @@
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
