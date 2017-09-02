@@ -5,24 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Diagnosis.groovy" />
     <recentFileMasks>
-      <mask>*.xls*</mask>
-      <mask>*.xls</mask>
-      <mask>*.xl</mask>
-      <mask>*S.java</mask>
-      <mask>*Ser.java</mask>
-      <mask>*Servi.java</mask>
-      <mask>*Service.java.java</mask>
-      <mask>*Service.java</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.sh</mask>
-      <mask>*.s</mask>
-      <mask>*.bsh</mask>
-      <mask>*.bs</mask>
-      <mask>*.b</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.pr</mask>
@@ -35,7 +19,24 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
+      <mask>&amp;pom.xml</mask>
+      <mask>(pom.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*pom.xml</mask>
+      <mask>*Dpom.xml</mask>
+      <mask>*Diapom.xml</mask>
+      <mask>*Diagpom.xml</mask>
+      <mask>*Diagnopom.xml</mask>
+      <mask>*Diagnospom.xml</mask>
+      <mask>*Diagnosispom.xml</mask>
+      <mask>*Diagnosis.pom.xml</mask>
+      <mask>*Diagnosis.gpom.xml</mask>
+      <mask>*Diagnosis.grpom.xml</mask>
+      <mask>*Diagnosis.gropom.xml</mask>
+      <mask>*Diagnosis.groopom.xml</mask>
+      <mask>*Diagnosis.groovpom.xml</mask>
+      <mask>*Diagnosis.groovypom.xml</mask>
+      <mask>*Diagnosis.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
