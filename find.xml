@@ -2,38 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
-      <mask>*.ml</mask>
-      <mask>*ml</mask>
-      <mask>ml</mask>
-      <mask>pml</mask>
-      <mask>poml</mask>
-      <mask>pomml</mask>
-      <mask>pom.ml</mask>
+      <mask>&amp;pom.xml</mask>
+      <mask>(pom.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*.o</mask>
-      <mask>*</mask>
-      <mask>*x</mask>
-      <mask>*xl</mask>
-      <mask>*xls</mask>
-      <mask>*xls*</mask>
-      <mask>*.xls*</mask>
-      <mask>*.xls</mask>
-      <mask>*.xl</mask>
-      <mask>*S.java</mask>
-      <mask>*Ser.java</mask>
-      <mask>*Servi.java</mask>
-      <mask>*Service.java.java</mask>
-      <mask>*Service.java</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*pom.xml</mask>
+      <mask>*Dpom.xml</mask>
+      <mask>*Diapom.xml</mask>
+      <mask>*Diagpom.xml</mask>
+      <mask>*Diagnopom.xml</mask>
+      <mask>*Diagnospom.xml</mask>
+      <mask>*Diagnosispom.xml</mask>
+      <mask>*Diagnosis.pom.xml</mask>
+      <mask>*Diagnosis.gpom.xml</mask>
+      <mask>*Diagnosis.grpom.xml</mask>
+      <mask>*Diagnosis.gropom.xml</mask>
+      <mask>*Diagnosis.groopom.xml</mask>
+      <mask>*Diagnosis.groovpom.xml</mask>
+      <mask>*Diagnosis.groovypom.xml</mask>
+      <mask>*Diagnosis.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
