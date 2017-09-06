@@ -29,13 +29,13 @@
       <mask>*.</mask>
       <mask>*.b</mask>
       <mask>*.bs</mask>
-      <mask>*.bsh</mask>
-      <mask>*D.bsh</mask>
-      <mask>*DE.bsh</mask>
-      <mask>*DEC.bsh</mask>
-      <mask>*DECO.bsh</mask>
-      <mask>*DECOD.bsh</mask>
       <mask>*DECODE.bsh</mask>
+      <mask>*DECOD.bsh</mask>
+      <mask>*DECO.bsh</mask>
+      <mask>*DEC.bsh</mask>
+      <mask>*DE.bsh</mask>
+      <mask>*D.bsh</mask>
+      <mask>*.bsh</mask>
     </recentFileMasks>
   </component>
 </application>
