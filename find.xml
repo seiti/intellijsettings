@@ -5,18 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*DECODE.bsh" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*.java</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>&amp;pom.xml</mask>
       <mask>(pom.xml</mask>
@@ -36,6 +26,17 @@
       <mask>*Diagnosis.groovpom.xml</mask>
       <mask>*Diagnosis.groovypom.xml</mask>
       <mask>*Diagnosis.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.bs</mask>
+      <mask>*.bsh</mask>
+      <mask>*D.bsh</mask>
+      <mask>*DE.bsh</mask>
+      <mask>*DEC.bsh</mask>
+      <mask>*DECO.bsh</mask>
+      <mask>*DECOD.bsh</mask>
+      <mask>*DECODE.bsh</mask>
     </recentFileMasks>
   </component>
 </application>
