@@ -1,25 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*groovy" />
     <recentFileMasks>
-      <mask>pom.xm</mask>
-      <mask>&amp;pom.xml</mask>
-      <mask>(pom.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*pom.xml</mask>
-      <mask>*Dpom.xml</mask>
-      <mask>*Diapom.xml</mask>
-      <mask>*Diagpom.xml</mask>
-      <mask>*Diagnopom.xml</mask>
-      <mask>*Diagnospom.xml</mask>
-      <mask>*Diagnosispom.xml</mask>
-      <mask>*Diagnosis.pom.xml</mask>
       <mask>*Diagnosis.gpom.xml</mask>
       <mask>*Diagnosis.grpom.xml</mask>
       <mask>*Diagnosis.gropom.xml</mask>
@@ -27,7 +16,6 @@
       <mask>*Diagnosis.groovpom.xml</mask>
       <mask>*Diagnosis.groovypom.xml</mask>
       <mask>*Diagnosis.groovy</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.b</mask>
       <mask>*.bs</mask>
@@ -38,6 +26,19 @@
       <mask>*DECO.bsh</mask>
       <mask>*DECOD.bsh</mask>
       <mask>*DECODE.bsh</mask>
+      <mask>**DECODE.bsh</mask>
+      <mask>*GROBVV</mask>
+      <mask>*GROBV</mask>
+      <mask>*GROB</mask>
+      <mask>*GRO</mask>
+      <mask>*GR</mask>
+      <mask>*G</mask>
+      <mask>*</mask>
+      <mask>*gr</mask>
+      <mask>*gro</mask>
+      <mask>*groo</mask>
+      <mask>*groov</mask>
+      <mask>*groovy</mask>
     </recentFileMasks>
   </component>
 </application>
