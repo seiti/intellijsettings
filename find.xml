@@ -4,22 +4,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*Diagnosis.gpom.xml</mask>
-      <mask>*Diagnosis.grpom.xml</mask>
-      <mask>*Diagnosis.gropom.xml</mask>
-      <mask>*Diagnosis.groopom.xml</mask>
-      <mask>*Diagnosis.groovpom.xml</mask>
-      <mask>*Diagnosis.groovypom.xml</mask>
-      <mask>*Diagnosis.groovy</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bs</mask>
       <mask>*.bsh</mask>
       <mask>*D.bsh</mask>
       <mask>*DE.bsh</mask>
@@ -34,12 +23,22 @@
       <mask>*GRO</mask>
       <mask>*GR</mask>
       <mask>*G</mask>
-      <mask>*</mask>
       <mask>*gr</mask>
       <mask>*gro</mask>
       <mask>*groo</mask>
       <mask>*groov</mask>
       <mask>*groovy</mask>
+      <mask>*</mask>
+      <mask>prio</mask>
+      <mask>pri</mask>
+      <mask>pr</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
