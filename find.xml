@@ -3,11 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>**DECODE.bsh</mask>
-      <mask>*GROBVV</mask>
-      <mask>*GROBV</mask>
-      <mask>*GROB</mask>
       <mask>*GRO</mask>
       <mask>*GR</mask>
       <mask>*G</mask>
@@ -27,13 +24,17 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*S.java</mask>
       <mask>*Se.java</mask>
       <mask>*Ser.java</mask>
       <mask>*Servi.java</mask>
       <mask>*Service.java</mask>
+      <mask>.</mask>
+      <mask>.x</mask>
+      <mask>.xm</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
