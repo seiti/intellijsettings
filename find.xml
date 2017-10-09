@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*gr</mask>
       <mask>*gro</mask>
@@ -19,7 +20,6 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*.java</mask>
       <mask>*S.java</mask>
       <mask>*Se.java</mask>
@@ -29,11 +29,12 @@
       <mask>.</mask>
       <mask>.x</mask>
       <mask>.xm</mask>
-      <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*conf.xml</mask>
       <mask>*confi.xml</mask>
       <mask>*config.xml</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
