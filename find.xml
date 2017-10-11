@@ -3,13 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*gr</mask>
-      <mask>*gro</mask>
-      <mask>*groo</mask>
-      <mask>*groov</mask>
-      <mask>*groovy</mask>
-      <mask>*</mask>
       <mask>prio</mask>
       <mask>pri</mask>
       <mask>pr</mask>
@@ -34,6 +29,12 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
