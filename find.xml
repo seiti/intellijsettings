@@ -28,12 +28,12 @@
       <mask>*conf.xml</mask>
       <mask>*confi.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*config.xml</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
