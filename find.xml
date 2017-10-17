@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>pri</mask>
       <mask>pr</mask>
@@ -22,12 +23,10 @@
       <mask>.xm</mask>
       <mask>*conf.xml</mask>
       <mask>*confi.xml</mask>
-      <mask>.xml</mask>
       <mask>*config.xml</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -36,6 +35,8 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
