@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.bsh" />
     <recentFileMasks>
-      <mask>pri</mask>
-      <mask>pr</mask>
-      <mask>p</mask>
       <mask>po</mask>
       <mask>pom.x</mask>
       <mask>*.java</mask>
@@ -30,12 +28,15 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.bs</mask>
+      <mask>*.bsh</mask>
     </recentFileMasks>
   </component>
 </application>
