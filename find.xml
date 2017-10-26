@@ -3,19 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Service.java" />
     <recentFileMasks>
-      <mask>po</mask>
-      <mask>pom.x</mask>
-      <mask>*.java</mask>
-      <mask>*S.java</mask>
-      <mask>*Se.java</mask>
-      <mask>*Ser.java</mask>
-      <mask>*Servi.java</mask>
-      <mask>*Service.java</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
-      <mask>.xm</mask>
-      <mask>*conf.xml</mask>
       <mask>*confi.xml</mask>
       <mask>*config.xml</mask>
       <mask>*.html</mask>
@@ -23,8 +12,6 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.b</mask>
       <mask>*.bs</mask>
@@ -34,6 +21,20 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Se</mask>
+      <mask>*Seriv</mask>
+      <mask>*Seri</mask>
+      <mask>*Ser</mask>
+      <mask>*Serv</mask>
+      <mask>*Servi</mask>
+      <mask>*Service</mask>
+      <mask>*Service.</mask>
+      <mask>*Service.ja</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>
