@@ -1,43 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Service.java" />
     <recentFileMasks>
-      <mask>pom.xm</mask>
-      <mask>&amp;pom.xml</mask>
-      <mask>(pom.xml</mask>
-      <mask>pom.xml</mask>
-      <mask>*pom.xml</mask>
-      <mask>*Dpom.xml</mask>
-      <mask>*Diapom.xml</mask>
-      <mask>*Diagpom.xml</mask>
-      <mask>*Diagnopom.xml</mask>
-      <mask>*Diagnospom.xml</mask>
-      <mask>*Diagnosispom.xml</mask>
-      <mask>*Diagnosis.pom.xml</mask>
-      <mask>*Diagnosis.gpom.xml</mask>
-      <mask>*Diagnosis.grpom.xml</mask>
-      <mask>*Diagnosis.gropom.xml</mask>
-      <mask>*Diagnosis.groopom.xml</mask>
-      <mask>*Diagnosis.groovpom.xml</mask>
-      <mask>*Diagnosis.groovypom.xml</mask>
-      <mask>*Diagnosis.groovy</mask>
-      <mask>*</mask>
+      <mask>*confi.xml</mask>
+      <mask>*config.xml</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>.xml</mask>
       <mask>*.</mask>
       <mask>*.b</mask>
       <mask>*.bs</mask>
       <mask>*.bsh</mask>
-      <mask>*D.bsh</mask>
-      <mask>*DE.bsh</mask>
-      <mask>*DEC.bsh</mask>
-      <mask>*DECO.bsh</mask>
-      <mask>*DECOD.bsh</mask>
-      <mask>*DECODE.bsh</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Se</mask>
+      <mask>*Seriv</mask>
+      <mask>*Seri</mask>
+      <mask>*Ser</mask>
+      <mask>*Serv</mask>
+      <mask>*Servi</mask>
+      <mask>*Service</mask>
+      <mask>*Service.</mask>
+      <mask>*Service.ja</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>
