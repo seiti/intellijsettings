@@ -3,26 +3,14 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*beans.xml" />
     <recentFileMasks>
-      <mask>*confi.xml</mask>
-      <mask>*config.xml</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>.xml</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bs</mask>
-      <mask>*.bsh</mask>
-      <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*</mask>
       <mask>*S</mask>
       <mask>*Se</mask>
       <mask>*Seriv</mask>
@@ -34,6 +22,19 @@
       <mask>*Service.</mask>
       <mask>*Service.ja</mask>
       <mask>*Service.java</mask>
+      <mask>bna</mask>
+      <mask>bn</mask>
+      <mask>b</mask>
+      <mask>*</mask>
+      <mask>*b</mask>
+      <mask>*be</mask>
+      <mask>*bea</mask>
+      <mask>*bean</mask>
+      <mask>*beans</mask>
+      <mask>*beans.</mask>
+      <mask>*beans.x</mask>
+      <mask>*beans.xm</mask>
+      <mask>*beans.xml</mask>
     </recentFileMasks>
   </component>
 </application>
