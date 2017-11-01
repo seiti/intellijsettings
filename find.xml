@@ -3,16 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*DAO.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*S</mask>
-      <mask>*Se</mask>
-      <mask>*Seriv</mask>
-      <mask>*Seri</mask>
-      <mask>*Ser</mask>
-      <mask>*Serv</mask>
       <mask>*Servi</mask>
       <mask>*Service</mask>
       <mask>*Service.</mask>
@@ -35,6 +27,14 @@
       <mask>*DAO</mask>
       <mask>*DAO.</mask>
       <mask>*DAO.java</mask>
+      <mask>.</mask>
+      <mask>.xm</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
