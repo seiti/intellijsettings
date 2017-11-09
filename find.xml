@@ -3,26 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Service.java" />
     <recentFileMasks>
-      <mask>bn</mask>
-      <mask>b</mask>
-      <mask>*</mask>
-      <mask>*b</mask>
-      <mask>*be</mask>
-      <mask>*bea</mask>
-      <mask>*bean</mask>
-      <mask>*beans</mask>
-      <mask>*beans.</mask>
-      <mask>*beans.x</mask>
-      <mask>*beans.xm</mask>
-      <mask>*beans.xml</mask>
-      <mask>*DA</mask>
-      <mask>*DAO</mask>
-      <mask>*DAO.</mask>
-      <mask>*DAO.java</mask>
-      <mask>.</mask>
-      <mask>.xm</mask>
-      <mask>.xml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -30,10 +12,29 @@
       <mask>*.bsh</mask>
       <mask>*.bs</mask>
       <mask>*.b</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.services</mask>
+      <mask>*.service</mask>
+      <mask>*.servic</mask>
+      <mask>*.servi</mask>
+      <mask>*.serv</mask>
+      <mask>*.ser</mask>
+      <mask>*.se</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Ser</mask>
+      <mask>*Serv</mask>
+      <mask>*Servi</mask>
+      <mask>*Service</mask>
+      <mask>*Service.</mask>
+      <mask>*Service.ja</mask>
+      <mask>*Service.jata</mask>
+      <mask>*Service.jat</mask>
+      <mask>*Service.java</mask>
     </recentFileMasks>
   </component>
 </application>
