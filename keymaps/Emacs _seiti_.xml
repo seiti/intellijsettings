@@ -49,6 +49,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
