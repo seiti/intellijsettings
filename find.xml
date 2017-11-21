@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.servi</mask>
-      <mask>*.serv</mask>
       <mask>*.ser</mask>
       <mask>*.se</mask>
       <mask>*.s</mask>
@@ -30,10 +29,12 @@
       <mask>*.gr</mask>
       <mask>*.g</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.bs</mask>
       <mask>*.bsh</mask>
+      <mask>*.bs</mask>
+      <mask>*.b</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
