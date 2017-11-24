@@ -3,13 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Diag*" />
     <recentFileMasks>
-      <mask>*.ser</mask>
-      <mask>*.se</mask>
-      <mask>*.s</mask>
-      <mask>*S</mask>
-      <mask>*Ser</mask>
-      <mask>*Serv</mask>
       <mask>*Servi</mask>
       <mask>*Service</mask>
       <mask>*Service.</mask>
@@ -28,12 +23,18 @@
       <mask>*.gr</mask>
       <mask>*.g</mask>
       <mask>*</mask>
-      <mask>*.bsh</mask>
-      <mask>*.bs</mask>
-      <mask>*.b</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.b</mask>
+      <mask>*.br</mask>
+      <mask>*.bs</mask>
+      <mask>*.bsh</mask>
+      <mask>*D</mask>
+      <mask>*Di</mask>
+      <mask>*Dia</mask>
+      <mask>*Diag</mask>
+      <mask>*Diag*</mask>
     </recentFileMasks>
   </component>
 </application>
