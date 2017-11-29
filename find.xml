@@ -3,16 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Servi</mask>
-      <mask>*Service</mask>
-      <mask>*Service.</mask>
-      <mask>*Service.ja</mask>
-      <mask>*Service.jata</mask>
-      <mask>*Service.jat</mask>
-      <mask>*Service.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.groovy</mask>
@@ -33,6 +25,15 @@
       <mask>*Diag*</mask>
       <mask>*</mask>
       <mask>*.xm</mask>
+      <mask>*pag.xml</mask>
+      <mask>*pa.xml</mask>
+      <mask>*p.xml</mask>
+      <mask>*map.xml</mask>
+      <mask>*mapp.xml</mask>
+      <mask>*mapping.xml</mask>
+      <mask>*mappin.xml</mask>
+      <mask>*ma.xml</mask>
+      <mask>*m.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
