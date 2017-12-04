@@ -3,22 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*restService.java" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.groovy</mask>
-      <mask>*.groov</mask>
-      <mask>*.groo</mask>
-      <mask>*.gro</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>*.</mask>
-      <mask>*.b</mask>
-      <mask>*.br</mask>
-      <mask>*.bs</mask>
-      <mask>*.bsh</mask>
-      <mask>*D</mask>
-      <mask>*Di</mask>
       <mask>*Dia</mask>
       <mask>*Diag</mask>
       <mask>*Diag*</mask>
@@ -34,6 +20,21 @@
       <mask>*ma.xml</mask>
       <mask>*m.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*S.java</mask>
+      <mask>*Sei.java</mask>
+      <mask>*Se.java</mask>
+      <mask>*Ser.java</mask>
+      <mask>*Servoci.java</mask>
+      <mask>*Servoc.java</mask>
+      <mask>*Servo.java</mask>
+      <mask>*Serv.java</mask>
+      <mask>*Servi.java</mask>
+      <mask>*Service.java</mask>
+      <mask>*rService.java</mask>
+      <mask>*reService.java</mask>
+      <mask>*restService.java</mask>
     </recentFileMasks>
   </component>
 </application>
