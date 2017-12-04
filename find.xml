@@ -3,17 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Diagnosis.groovy" />
     <recentFileMasks>
-      <mask>*pa.xml</mask>
-      <mask>*p.xml</mask>
-      <mask>*map.xml</mask>
-      <mask>*mapp.xml</mask>
-      <mask>*mapping.xml</mask>
-      <mask>*mappin.xml</mask>
-      <mask>*ma.xml</mask>
-      <mask>*m.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*S.java</mask>
       <mask>*Sei.java</mask>
@@ -34,6 +25,16 @@
       <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>D</mask>
+      <mask>Dia</mask>
+      <mask>Diag</mask>
+      <mask>Diagno</mask>
+      <mask>Diagnos</mask>
+      <mask>Diagnosis.</mask>
+      <mask>Diagnosis.gro</mask>
+      <mask>Diagnosis.groo</mask>
+      <mask>Diagnosis.groovy</mask>
+      <mask>*Diagnosis.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
