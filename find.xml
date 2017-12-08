@@ -1,15 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Servoci.java</mask>
-      <mask>*Servoc.java</mask>
-      <mask>*Servo.java</mask>
-      <mask>*Serv.java</mask>
       <mask>*Servi.java</mask>
       <mask>*Service.java</mask>
       <mask>*rService.java</mask>
@@ -33,9 +28,13 @@
       <mask>*Diagnosis.groovy</mask>
       <mask>*m</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
