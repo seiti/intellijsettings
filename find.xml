@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
-      <mask>D</mask>
       <mask>Dia</mask>
       <mask>Diag</mask>
       <mask>Diagno</mask>
@@ -29,11 +27,14 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.Pjava</mask>
-      <mask>*.java</mask>
       <mask>*P.java</mask>
       <mask>*Pa.java</mask>
       <mask>*Pag.java</mask>
       <mask>*Page.java</mask>
+      <mask>*Ser.java</mask>
+      <mask>*Se.java</mask>
+      <mask>*S.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
