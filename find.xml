@@ -3,26 +3,18 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*DAO.java" />
     <recentFileMasks>
-      <mask>Dia</mask>
-      <mask>Diag</mask>
-      <mask>Diagno</mask>
-      <mask>Diagnos</mask>
-      <mask>Diagnosis.</mask>
       <mask>Diagnosis.gro</mask>
       <mask>Diagnosis.groo</mask>
       <mask>Diagnosis.groovy</mask>
       <mask>*Diagnosis.groovy</mask>
       <mask>*m</mask>
-      <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
-      <mask>*.x</mask>
       <mask>*.bsh</mask>
       <mask>*.bs</mask>
       <mask>*.b</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.Pjava</mask>
       <mask>*P.java</mask>
@@ -33,8 +25,16 @@
       <mask>*Se.java</mask>
       <mask>*S.java</mask>
       <mask>*.java</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*DA</mask>
+      <mask>*DAO</mask>
+      <mask>*DAO.</mask>
+      <mask>*DAO.ja</mask>
+      <mask>*DAO.java</mask>
     </recentFileMasks>
   </component>
 </application>
