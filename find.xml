@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*Diagnosis.groovy</mask>
-      <mask>*m</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.bsh</mask>
       <mask>*.bs</mask>
       <mask>*.b</mask>
@@ -31,10 +27,14 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
