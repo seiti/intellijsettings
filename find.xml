@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*DAO.java" />
     <recentFileMasks>
-      <mask>*DAO.ja</mask>
-      <mask>*DAO.java</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -27,14 +24,17 @@
       <mask>*ReportCreator.ja</mask>
       <mask>*ReportCreator.java</mask>
       <mask>**</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xkml</mask>
       <mask>*.xkm</mask>
       <mask>*.xk</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*DA</mask>
+      <mask>*DAO</mask>
+      <mask>*DAO.java</mask>
     </recentFileMasks>
   </component>
 </application>
