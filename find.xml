@@ -3,37 +3,21 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*R</mask>
-      <mask>*Re</mask>
-      <mask>*Report</mask>
-      <mask>*ReportC</mask>
-      <mask>*ReportCr</mask>
-      <mask>*ReportCre</mask>
-      <mask>*ReportCrea</mask>
-      <mask>*ReportCreato</mask>
-      <mask>*ReportCreator</mask>
-      <mask>*ReportCreator.</mask>
-      <mask>*ReportCreator.ja</mask>
-      <mask>*ReportCreator.java</mask>
-      <mask>**</mask>
-      <mask>*.xkml</mask>
-      <mask>*.xkm</mask>
-      <mask>*.xk</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
-      <mask>*DA</mask>
-      <mask>*DAO</mask>
-      <mask>*DAO.java</mask>
-      <mask>*D</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
+    <mask>*DAO.java</mask>
+    <mask>*Page.java</mask>
+    <mask>*.html</mask>
+    <mask>list.jsp</mask>
+    <mask>*Service.java</mask>
+    <mask>*.</mask>
+    <mask>*.groovy</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*Bean.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
