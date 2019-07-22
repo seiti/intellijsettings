@@ -19,6 +19,10 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="period" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f6" />
+  </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
   </action>
@@ -72,6 +76,10 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f5" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
