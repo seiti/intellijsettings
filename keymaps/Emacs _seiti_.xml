@@ -87,6 +87,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl d" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f11" />
+  </action>
   <action id="Tool_External Tools_Open in Emacs">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl e" />
   </action>
