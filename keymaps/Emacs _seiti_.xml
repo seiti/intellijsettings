@@ -29,6 +29,12 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift equals" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="v" />
